@@ -60,10 +60,11 @@ In the initial data preparation phase,we perfomed the following tasks:
 3. data cleaning and formatting
    
 # Exploratory Data
+You need to see the  "Exploratory.dcx" file.
 
 # Data Analysis
-
+You need to see the "BANK LOAN REPORT QUERY DOCUMENT.docx" file.
 # Results
-
+You need to see the "BANK LOAN PROJET"
 # Recommandation
 # Limitation
