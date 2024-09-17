@@ -19,17 +19,42 @@ Bad Loan Funded Amount: Identify the total bad loan funded amount.
 Bad Loan Received Amount: Identify the total received amount via the bad loan category.
 
 ## Dashboard Overview Requirements
+
+### Dashboard 1: Datail
 The dashboard will present crucial loan-related metrics and trends using various chart types to provide a clear and insightful view of lending operations.
 1. Monthly Trends by Total Applications : Use a line chart to visualize monthly trends in total loan applications.
 2. Regional Analysis by State: Use a filled map to illustrate the regional distribution of funded amounts.
 3. Loan Term-Based Analysis: Use a donut chart to depict the proportion of short-term (36 months) and long-term (60 months) loans.
 4. Funded Loan by Employee Length: Use a bar chart to demonstrate the total funded loan amount by employee length.
 5. Total Aoan Amount by Purpose: Use a column chart to illustrate the total funded amount by purpose.
+6. Good Loan v Bad Loan KPI’s
+
+
+### Dashboard 2: Datai
+CHARTS
+1.Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-term trends in lending activities
+2.Regional Analysis by State (Filled Map): To identify regions with significant lending activity and assess regional disparities
+3.Loan Term Analysis (Donut Chart): To allow the client to understand the distribution of loans across various term lengths.
+4.Employee Length Analysis (Bar Chart): How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
+5.Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
+6.Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
 
 # Data source
+The dataset used for this analysis is the "Bank_loan_Data.csv" file.
+
 # Tools
+- SQL Server - data analysis
+- POWER BI- creating reports
+  
 # Fonctionalitees we need
+used the "FUNCTIONALITIES.docx" file.
+
 # Data cleaning
+In the initial data preparation phase,we perfomed the following tasks:
+1. data loading and inspection
+2. handling missing values
+3. data cleaning and formatting
+   
 # Exploratory Data
 # Data Analysis
 # Results
