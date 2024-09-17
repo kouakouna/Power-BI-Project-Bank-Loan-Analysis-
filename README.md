@@ -20,7 +20,7 @@ Bad Loan Received Amount: Identify the total received amount via the bad loan ca
 
 ## Dashboard Overview Requirements
 
-### Dashboard 1: Datail
+### Dashboard 1: Summary
 The dashboard will present crucial loan-related metrics and trends using various chart types to provide a clear and insightful view of lending operations.
 1. Monthly Trends by Total Applications : Use a line chart to visualize monthly trends in total loan applications.
 2. Regional Analysis by State: Use a filled map to illustrate the regional distribution of funded amounts.
@@ -30,7 +30,7 @@ The dashboard will present crucial loan-related metrics and trends using various
 6. Good Loan v Bad Loan KPI’s
 
 
-### Dashboard 2: Datai
+### Dashboard 2: Overview
 CHARTS
 1.Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-term trends in lending activities
 2.Regional Analysis by State (Filled Map): To identify regions with significant lending activity and assess regional disparities
@@ -38,6 +38,10 @@ CHARTS
 4.Employee Length Analysis (Bar Chart): How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
 5.Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 6.Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
+
+### Dashboard 2: Datails
+GRID
+Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
 
 # Data source
 The dataset used for this analysis is the "Bank_loan_Data.csv" file.
@@ -56,7 +60,10 @@ In the initial data preparation phase,we perfomed the following tasks:
 3. data cleaning and formatting
    
 # Exploratory Data
+
 # Data Analysis
+
 # Results
+
 # Recommandation
 # Limitation
